@@ -1,0 +1,164 @@
+body {
+  font-family: "Montserrat";
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.feature-box {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+i:hover {
+  color: #ff4c68;
+}
+
+h1 {
+  font-family: "Montserrat-Black";
+  font-size: 4.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+h2 {
+  font-family: "Montserrat-bold";
+  font-size: 4rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+h3 {
+  font-family: "Montserrat-Bold";
+  font-size: 2rem;
+  font-weight: 900;
+  color: #000;
+}
+
+h4 {
+  font-family: "Montserrat-bold";
+  font-size: 4rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.list-unstyled {
+  color: #8f8f8f;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.35rem;
+  font-family: "Montserrat-light"
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.title-img {
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+em {
+  color: #fff;
+  font-size: 1rem;
+  font-family: "Montserrat"
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.dog {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-img {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+#pricing {
+  text-align: center;
+}
+
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 7% 7%;
+}
+
+.ctah {
+  color: #fff;
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+  text-align: center;
+}
+
+#footer {
+  padding: 3% 3%;
+  text-align: center;
+}
+.icn {
+  margin: 20px 10px;
+
+}
+.icn:hover{
+  color: blue;
+
+}
+@@media (max-width: 1028px) {
+  #title {
+    text-align: center;
+  }
+}
